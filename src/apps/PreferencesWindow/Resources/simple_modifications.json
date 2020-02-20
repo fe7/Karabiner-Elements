@@ -174,9 +174,9 @@
         }
     },
     {
-        "label": "non_us_backslash",
+        "label": "non_us_backslash (§)",
         "data": {
-            "key_code": "non_us_backslash (§)"
+            "key_code": "non_us_backslash"
         }
     },
     {
